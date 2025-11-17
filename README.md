@@ -1,75 +1,55 @@
-🛒 E-Commerce Website
-A modern and responsive e-commerce website built to provide users with a smooth and intuitive online shopping experience. This project features product browsing, a dynamic cart system, and a clean UI designed for both desktop and mobile users. It serves as a solid foundation for anyone planning to build or expand a full-scale online store.
+📦 Inventory Management System
+
+This project is a streamlined Inventory Management System built using PHP and MySQL, created to help users efficiently manage products, stock levels, and categories. It features a clean interface, smooth navigation, and intuitive options for adding, editing, and removing inventory items. The system is lightweight, fast, and ideal for small to medium businesses that need a simple yet reliable stock management solution.
+
 🚀 Features
 
+Add, update, and delete products
 
-Browse and view product details
+Real-time stock quantity tracking
 
+Category management
 
-Add/remove items from the cart
+Product search and filtering
 
+Responsive and user-friendly interface
 
-Responsive design for all screen sizes
+Secure server-side validation
 
-
-Clean and organized project structure
-
-
-Simple and beginner-friendly codebase
-
+Simple dashboard for easy navigation
 
 🛠️ Tech Stack
 
+PHP for backend logic
 
-HTML5
+MySQL for database management
 
+HTML, CSS, JavaScript for the frontend
 
-CSS3
-
-
-JavaScript
-(Add React/Node/etc. if used)
-
+XAMPP / WAMP / LAMP for local server hosting
 
 📦 Getting Started
-To run this project locally:
-# Clone this repository
-git clone https://github.com/your-username/your-repo-name.git
 
-# Open the project folder
-cd your-repo-name
-
-# Run using any local server (e.g., VS Code Live Server)
+To run this project locally, clone or download the repository, place it inside your XAMPP or WAMP htdocs directory, and start Apache and MySQL. Create a database in phpMyAdmin and import the provided SQL file. Update your database credentials inside the configuration file, then access the project through your browser using the local host URL.
 
 📂 Folder Structure
-/project
- ├── index.html
- ├── products.html
- ├── cart.html
- ├── css/
- ├── js/
- └── images/
+
+The project includes separate folders for configuration files, frontend assets, pages for adding and updating products, and an uploads directory for product images.
 
 🌟 Future Improvements
 
+User authentication system
 
-User accounts & login system
+Stock alert notifications
 
+Supplier management module
 
-Payment gateway integration
+Exportable reports (CSV/PDF)
 
+Barcode or QR code integration
 
-Product categories & filtering
-
-
-Admin dashboard
-
+Role-based access control (Admin/Staff)
 
 📜 License
-This project is open-source and free to use.
 
-If you want, I can:
-✅ Add badges (stars, forks, license, tech)
-✅ Add screenshots
-✅ Add your project name + description
-Just tell me!
+This project is open-source and free to use or modify.
